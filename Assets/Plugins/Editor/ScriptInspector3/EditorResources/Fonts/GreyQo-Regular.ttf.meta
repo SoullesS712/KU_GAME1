@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cffabdc5202ab2a4e8b73af3b8477b9b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Grey Qo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96c86f447091236488c3a85276f6f6fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
